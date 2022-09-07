@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
--📷 Instagram : osvald_brasveld4.07
--📧 Mail : osvald.brasveld4.07@gmail.com 
+- 📷 Instagram : osvald_brasveld4.07
 
 <!---
 Osvald-brasveld/Osvald-brasveld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
